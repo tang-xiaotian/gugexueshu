@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1.8;
+  //font-family: "Microsoft Yahei", "微软雅黑";
+}
+.div {
+  width: 500px;
+  margin: 30px auto;
+  padding: 20px 30px;
+  position: relative;
+  background-color: #e4eeee;
+  border-radius: 10px;
+  box-shadow: 0px 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.div h3 {
+  color: #0000ff;
+  font-size: 20px;
+}
+
+.div .tooltip {
+  color: #0099ff;
+  cursor: pointer;
+}
